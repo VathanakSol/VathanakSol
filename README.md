@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Sol Vathanak. I am studying in Royal University of Phnom Penh.👋
 <a href=#><img src="contributions.svg"></a>
 <p align="center"> 
   Visitor count<br>
