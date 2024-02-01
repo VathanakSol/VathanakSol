@@ -1,4 +1,9 @@
 ### Hi there 👋
+<a href=#><img src="contributions.svg"></a>
+<p align="center"> 
+  Visitor count<br>
+
+</p>
 
 <!--
 **VathanakSol/VathanakSol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
