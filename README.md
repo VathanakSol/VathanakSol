@@ -1,7 +1,7 @@
 # Welcome to My Profile!
 
 <p align="center">
-  ![Welcome Animation](https://raw.githubusercontent.com/vathanaksol/repository/main/assets/Animation.gif)
+  <img src="https://github.com/VathanakSol/VathanakSol/blob/main/Animation.gif?raw=true" />
 </p>
 
 ### 🎓 I’m studying at the Royal University of Phnom Penh.
