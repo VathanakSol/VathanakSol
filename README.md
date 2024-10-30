@@ -15,8 +15,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VathanakSol&theme=react" alt="GitHub Streak" />
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=VathanakSol&color=blue" alt="Visitor Count" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VathanakSol&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="VathanakSol" />
 </p>
 
 <a href="#"><img src="contributions.svg"></a>
