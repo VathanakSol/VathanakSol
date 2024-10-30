@@ -1,4 +1,6 @@
-# Hi there, I'm Sol Vathanak! 👋
+<p align="center">
+  <img src="https://path-to-your-animated-svg-header.com/animated-header.svg" alt="Welcome to My Profile!" />
+</p>
 
 ### 🎓 I’m studying at the Royal University of Phnom Penh.
 ### 🚀 Currently exploring full-stack development and open-source projects.
