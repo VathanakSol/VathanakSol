@@ -7,6 +7,8 @@
 ### 🎓 I’m studying at the Royal University of Phnom Penh.
 ### 🚀 Currently exploring full-stack development and open-source projects.
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VathanakSol&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=VathanakSol&color=blue" alt="Visitor Count" /> 
 </p>
