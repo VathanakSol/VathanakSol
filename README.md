@@ -2,7 +2,7 @@
 <a href=#><img src="contributions.svg"></a>
 <p align="center"> 
   Visitor count<br>
-
+  <img src="https://komarev.com/ghpvc/?username=VathanakSol&color=blue" alt="Visitor Count"/>
 </p>
 
 <!--
