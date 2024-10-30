@@ -10,6 +10,11 @@
 ### 🎓 I’m studying at the Royal University of Phnom Penh.
 ### 🚀 Currently exploring full-stack development and open-source projects.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VathanakSol&show_icons=true&theme=react" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VathanakSol&theme=react" alt="GitHub Streak" />
+</p>
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=VathanakSol&color=blue" alt="Visitor Count" /> 
 </p>
