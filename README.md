@@ -1,5 +1,7 @@
+# Welcome to My Profile!
+
 <p align="center">
-  <img src="https://path-to-your-animated-svg-header.com/animated-header.svg" alt="Welcome to My Profile!" />
+  ![Welcome Animation](https://raw.githubusercontent.com/vathanaksol/repository/main/assets/Animation.gif)
 </p>
 
 ### 🎓 I’m studying at the Royal University of Phnom Penh.
