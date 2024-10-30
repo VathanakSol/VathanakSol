@@ -1,4 +1,7 @@
-# Hello There! I'm Sol Vathanak
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7C4&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sol+Vathanak;Welcome+to+my+GitHub+profile!" alt="Hi There! I'm Sol Vathanak" />
+</p>
+
 
 <p align="center">
   <img src="https://github.com/VathanakSol/VathanakSol/blob/main/Animation.gif?raw=true" />
