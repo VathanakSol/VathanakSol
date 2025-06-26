@@ -7,9 +7,17 @@
   <img src="https://github.com/VathanakSol/VathanakSol/blob/main/Animation.gif?raw=true" />
 </p>
 
-### 🎓 I’m studying at the Royal University of Phnom Penh.
-### 🚀 Currently exploring full-stack development and open-source projects.
+### Hi there 👋 I'm Sol Vathanak
+✨ Full-stack developer specializing in DevOps
+🎓 I have graduated from the Royal University of Phnom Penh.
+🚀 Currently exploring DevOps, full-stack development and open-source projects.
+💼 Available for freelance work  
 
+### 📫 How to reach me:
+[![Email](https://img.shields.io/badge/Email-vathanaksol1605%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vathanaksol1605@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-naktech.pro-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://naktech.pro)
+
+### 📊 GitHub Stats    
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VathanakSol&show_icons=true&theme=react" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VathanakSol&theme=react" alt="GitHub Streak" />
@@ -58,14 +66,9 @@
   </a>
 </p>
 
-### 📅 Roadmap
-- [x] Completed JavaScript and TypeScript courses
-- [ ] Learn GraphQL and Prisma
-- [ ] Set up CI/CD pipelines with GitHub Actions
-
 ### 💻 About Me
-- 🔭 Working on full-stack development with React and Node.js.
-- 🌱 Learning about DevOps, Docker, and Kubernetes.
+- 🔭 Working on full-stack development with React and Next.js.
+- 🌱 Learning about DevOps, Docker, Jenkins and Kubernetes.
 - 👯 Open to collaborating on open-source projects!
 
 ![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
