@@ -73,6 +73,8 @@
 
 ![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/vathanak)  
+
 ### 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vathanaksol)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web&logoColor=white)](https://naktech.pro)
