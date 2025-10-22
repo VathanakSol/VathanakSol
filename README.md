@@ -27,6 +27,16 @@
 - 🛠️ DevOps: Docker, Kubernetes, Jenkins, Nginx, Linux, Git.
 - 🚀 Exploring new technologies and open to freelance work.
 
+### Now Building
+- ⚡ FastAPI services: auth, CRUD, and Multi-Tenancy.
+- 🧪 CI/CD with Jenkins.
+- ☸️ Gitea Self-Hosted deployment with Nginx.
+
+### Currently Learning
+- 🧵 Model Context Protocol (MCP)
+- 📈 Security in Backend Development
+- 🚦 New Technologies
+
 ### Reach Me
 <div align="center">
   <a href="mailto:vathanaksol1605@gmail.com">
@@ -68,6 +78,10 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VathanakSol&layout=compact&theme=react&hide_border=true" alt="top langs"/>
 </div>
 
+### Weekly Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VathanakSol&theme=onedark&row=1&no-frame=true&no-bg=true" alt="trophies"/>
@@ -84,4 +98,3 @@
 
 ### Support
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://coff.ee/vathanak)
-
