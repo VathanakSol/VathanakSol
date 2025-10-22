@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=00F7C4&center=true&vCenter=true&width=600&lines=Hi%20there%20%F0%9F%91%8B%20I'm%20Sol%20Vathanak;Full‑Stack%20Developer%20%26%20DevOps%20Enthusiast;Welcome%20to%20my%20GitHub%20profile!" alt="Hi, I'm Sol Vathanak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=00F7C4&center=true&vCenter=true&width=600&lines=Hi%20there%20%F0%9F%91%8B%20I%27m%20Sol%20Vathanak;Full-Stack%20Developer%20%26%20DevOps%20Enthusiast;Welcome%20to%20my%20GitHub%20profile!" alt="Hi, I'm Sol Vathanak" />
+  <br/>
+  <!-- Fallback static title badge in case typing SVG fails -->
+  <img src="https://img.shields.io/badge/Sol%20Vathanak-Full--Stack%20Developer%20%7C%20DevOps-00D09C?style=for-the-badge&labelColor=0B0E14&logo=github&logoColor=white" alt="Sol Vathanak — Full-Stack Developer | DevOps" />
   <br/>
   <img src="https://github.com/VathanakSol/VathanakSol/blob/main/Animation.gif?raw=true" alt="Coding Animation"/>
   <br/>
