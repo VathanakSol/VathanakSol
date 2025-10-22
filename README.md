@@ -78,18 +78,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VathanakSol&layout=compact&theme=react&hide_border=true" alt="top langs"/>
 </div>
 
-### Weekly Coding Stats
-Last 7 days (via WakaTime)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<div align="center">
-  <!-- Replace USER_ID with your WakaTime user ID (UUID). Find it on your WakaTime profile badge settings. -->
-  <a href="https://wakatime.com/@USER_ID">
-    <img src="https://wakatime.com/badge/user/USER_ID.svg?style=for-the-badge" alt="Total time coded since joining WakaTime" />
-  </a>
-</div>
-
 ### Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VathanakSol&theme=onedark&row=1&no-frame=true&no-bg=true" alt="trophies"/>
