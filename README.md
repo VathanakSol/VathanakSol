@@ -79,12 +79,13 @@
 </div>
 
 ### Weekly Coding Stats
-START_SECTION:waka
-END_SECTION:waka
+Last 7 days (via WakaTime)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align="center">
   <!-- Replace USER_ID with your WakaTime user ID (UUID). Find it on your WakaTime profile badge settings. -->
-  <a href="https://wakatime.com/@vathanak">
+  <a href="https://wakatime.com/@USER_ID">
     <img src="https://wakatime.com/badge/user/USER_ID.svg?style=for-the-badge" alt="Total time coded since joining WakaTime" />
   </a>
 </div>
