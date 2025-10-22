@@ -40,7 +40,17 @@
 ### Projects
 - 🔗 Dok-Play: https://dokplay.netlify.app
 
-<a href="#"><img src="contributions.svg" alt="contribution graph"></a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VathanakSol&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
+</p>
+
+### Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VathanakSol/VathanakSol/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/VathanakSol/VathanakSol/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ### Support
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://coff.ee/vathanak)
