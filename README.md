@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=00F7C4&center=true&vCenter=true&width=600&lines=Hi%20there%20%F0%9F%91%8B%20I%27m%20Sol%20Vathanak;Full-Stack%20Developer%20%26%20DevOps%20Enthusiast;Welcome%20to%20my%20GitHub%20profile!" alt="Hi, I'm Sol Vathanak" />
   <br/>
   <!-- Fallback static title badge in case typing SVG fails -->
-  <img src="https://img.shields.io/badge/Sol%20Vathanak-Full--Stack%20Developer%20%7C%20DevOps-00D09C?style=for-the-badge&labelColor=0B0E14&logo=github&logoColor=white" alt="Sol Vathanak — Full-Stack Developer | DevOps" />
+  <img src="https://img.shields.io/badge/Sol%20Vathanak-Full--Stack%20Developer%20%7C%20DevOps-00D09C?style=for-the-badge&labelColor=0B0E14&logo=github&logoColor=white" alt="Sol Vathanak - Full-Stack Developer | DevOps" />
   <br/>
   <img src="https://github.com/VathanakSol/VathanakSol/blob/main/Animation.gif?raw=true" alt="Coding Animation"/>
   <br/>
@@ -20,10 +20,12 @@
 </p>
 
 ### About Me
-- 🎯 Full‑stack Developer & DevOps Engineer.
+- 🔧 Full‑stack Developer & DevOps Engineer.
 - 🎓 Graduated from the Royal University of Phnom Penh.
-- 🚀 Exploring New Technologies.
-- 💼 Available for freelance work.
+- 🧰 Main stack: React, Next.js, Node.js, FastAPI, Spring.
+- 🗄️ Data: PostgreSQL.
+- 🛠️ DevOps: Docker, Kubernetes, Jenkins, Nginx, Linux, Git.
+- 🚀 Exploring new technologies and open to freelance work.
 
 ### Reach Me
 <div align="center">
@@ -42,19 +44,20 @@
 ### Tech Stack
 <div align="center">
   <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php&perline=12" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java&perline=12" alt="languages"/>
   <br/><br/>
   <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,jquery&perline=12" alt="frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=12" alt="frontend"/>
   <br/><br/>
   <b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,laravel,dotnet&perline=12" alt="backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi&perline=12" alt="backend"/>
   <br/><br/>
   <b>Databases</b><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=12" alt="databases"/>
+  <img src="https://skillicons.dev/icons?i=postgres&perline=12" alt="databases"/>
   <br/><br/>
   <b>DevOps</b><br/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,nginx,linux,git&perline=12" alt="devops and tools"/>
+
 </div>
 
 ### GitHub Stats
@@ -81,3 +84,4 @@
 
 ### Support
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://coff.ee/vathanak)
+
