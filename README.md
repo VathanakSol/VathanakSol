@@ -79,8 +79,15 @@
 </div>
 
 ### Weekly Coding Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
+
+<div align="center">
+  <!-- Replace USER_ID with your WakaTime user ID (UUID). Find it on your WakaTime profile badge settings. -->
+  <a href="https://wakatime.com/@vathanak">
+    <img src="https://wakatime.com/badge/user/USER_ID.svg?style=for-the-badge" alt="Total time coded since joining WakaTime" />
+  </a>
+</div>
 
 ### Trophies
 <p align="center">
