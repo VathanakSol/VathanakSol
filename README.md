@@ -12,6 +12,7 @@
 ---
 
 ### Contribution Snake
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VathanakSol/VathanakSol/output/github-contribution-grid-snake-dark.svg" />
@@ -20,6 +21,7 @@
 </p>
 
 ### About Me
+
 - 🔧 Full‑stack Developer & DevOps Engineer.
 - 🎓 Graduated from the Royal University of Phnom Penh.
 - 🧰 Main stack: React, Next.js, Node.js, FastAPI, Spring.
@@ -28,21 +30,24 @@
 - 🚀 Exploring new technologies and open to freelance work.
 
 ### Now Building
+
 - ⚡ FastAPI services: auth, CRUD, and Multi-Tenancy.
 - 🧪 CI/CD with Jenkins.
 - ☸️ Gitea Self-Hosted deployment with Nginx.
 
 ### Currently Learning
+
 - 🧵 Model Context Protocol (MCP)
 - 📈 Security in Backend Development
 - 🚦 New Technologies
 
 ### Reach Me
+
 <div align="center">
   <a href="mailto:vathanaksol1605@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-vathanaksol1605%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0E14" alt="Email Me" />
   </a>
-  <a href="https://naktech.pro">
+  <a href="https://naktech.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-naktech.pro-111111?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0B0E14" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/vathanaksol">
@@ -52,6 +57,7 @@
 </div>
 
 ### Tech Stack
+
 <div align="center">
   <b>Languages</b><br/>
   <img src="https://skillicons.dev/icons?i=js,ts,python,java&perline=12" alt="languages"/>
@@ -71,6 +77,7 @@
 </div>
 
 ### GitHub Stats
+
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=VathanakSol&show_icons=true&theme=react&hide_border=true" alt="stats"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=VathanakSol&theme=react&hide_border=true" alt="streak"/>
@@ -78,19 +85,19 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VathanakSol&layout=compact&theme=react&hide_border=true" alt="top langs"/>
 </div>
 
-### Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VathanakSol&theme=onedark&row=1&no-frame=true&no-bg=true" alt="trophies"/>
-</p>
+### Achievements
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VathanakSol&theme=github_dark" alt="GitHub Profile Summary"/>
+</p>
 ### Projects
+
 - 🔗 Dok-Play: https://dokplay.netlify.app
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VathanakSol&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
 </p>
 
-
-
 ### Support
+
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://coff.ee/vathanak)
