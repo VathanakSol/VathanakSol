@@ -31,14 +31,14 @@
 
 ### Now Building
 
-- ⚡ FastAPI services: auth, CRUD, and Multi-Tenancy.
-- 🧪 CI/CD with Jenkins.
+- ⚡ Developer Platform 2050 using Next.js with Neon Serverless database
 - ☸️ Gitea Self-Hosted deployment with Nginx.
+- ®️ Clone Docker Hub Web Application with Modern UI.
 
 ### Currently Learning
 
-- 🧵 Model Context Protocol (MCP)
-- 📈 Security in Backend Development
+- 🧵 AWS Cloud Computing
+- 📈 Advanced Git, DevOps Linux Command
 - 🚦 New Technologies
 
 ### Reach Me
@@ -102,3 +102,4 @@
 ### Support
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://coff.ee/vathanak)
+
