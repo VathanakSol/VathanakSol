@@ -31,14 +31,12 @@
 
 ### Now Building
 
-- ⚡ Developer Platform 2050 using Next.js with Neon Serverless database
-- ☸️ Gitea Self-Hosted deployment with Nginx.
-- ®️ Clone Docker Hub Web Application with Modern UI.
+- ⚡ Developer Platform 2050 using Next.js integrate with GEMINI AI api key
 
 ### Currently Learning
 
-- 🧵 AWS Cloud Computing
-- 📈 Advanced Git, DevOps Linux Command
+- 🧵 Improve Backend Concept Programming
+- 📈 Network Configuration in Cloud Computing
 - 🚦 New Technologies
 
 ### Reach Me
@@ -94,6 +92,7 @@
 ### Projects
 
 - 🔗 Dok-Play: https://dokplay.netlify.app
+- 🔗 2050: https://v2050.vercel.app
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VathanakSol&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
@@ -102,5 +101,6 @@
 ### Support
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://coff.ee/vathanak)
+
 
 
