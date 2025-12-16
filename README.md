@@ -25,13 +25,13 @@
 - 🔧 Full‑stack Developer & DevOps Engineer.
 - 🎓 Graduated from the Royal University of Phnom Penh.
 - 🧰 Main stack: React, Next.js, Node.js, FastAPI, Spring.
-- 🗄️ Data: PostgreSQL.
+- 🗄️ Database: PostgreSQL.
 - 🛠️ DevOps: Docker, Kubernetes, Jenkins, Nginx, Linux, Git.
 - 🚀 Exploring new technologies and open to freelance work.
 
 ### Now Building
 
-- ⚡ Developer Platform 2050 using Next.js integrate with GEMINI AI api key
+- ⚡ Developer Platform 2050 as for developer
 
 ### Currently Learning
 
@@ -101,6 +101,7 @@
 ### Support
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://coff.ee/vathanak)
+
 
 
 
