@@ -27,20 +27,18 @@
 - 🔧 Full‑stack Developer & DevOps Engineer.
 - 🎓 Graduated from the Royal University of Phnom Penh.
 - 🧰 Main stack: React, Next.js, Node.js, FastAPI, Spring.
-- 🗄️ Data: PostgreSQL.
+- 🗄️ Database: PostgreSQL.
 - 🛠️ DevOps: Docker, Kubernetes, Jenkins, Nginx, Linux, Git.
 - 🚀 Exploring new technologies and open to freelance work.
 
 ### Now Building
 
-- ⚡ FastAPI services: auth, CRUD, and Multi-Tenancy.
-- 🧪 CI/CD with Jenkins.
-- ☸️ Gitea Self-Hosted deployment with Nginx.
+- ⚡ Developer Platform 2050 as for developer
 
 ### Currently Learning
 
-- 🧵 Model Context Protocol (MCP)
-- 📈 Security in Backend Development
+- 🧵 Improve Backend Concept Programming
+- 📈 Network Configuration in Cloud Computing
 - 🚦 New Technologies
 
 ### Reach Me
@@ -50,7 +48,7 @@
     <img src="https://img.shields.io/badge/Email%20Me-vathanaksol1605%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0E14" alt="Email Me" />
   </a>
   <a href="https://naktech.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-naktech.pro-111111?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0B0E14" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-naktech.netlify.app-111111?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0B0E14" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/vathanaksol">
     <img src="https://img.shields.io/badge/LinkedIn-Vathanak%20Sol-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0E14" alt="LinkedIn" />
@@ -96,6 +94,7 @@
 ### Projects
 
 - 🔗 Dok-Play: https://dokplay.netlify.app
+- 🔗 2050: https://v2050.vercel.app
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VathanakSol&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
@@ -104,3 +103,7 @@
 ### Support
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://coff.ee/vathanak)
+
+
+
+
