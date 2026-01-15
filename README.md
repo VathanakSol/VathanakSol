@@ -6,6 +6,8 @@
   <br/>
   <img src="https://github.com/VathanakSol/VathanakSol/blob/main/Animation.gif?raw=true" alt="Coding Animation"/>
   <br/>
+  <img src="https://github.com/VathanakSol/VathanakSol/blob/main/Shooter.gif?raw=true" alt="Shooter Game GIF"/>
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=VathanakSol&label=Profile%20Views&color=00d09c&style=flat" alt="profile views"/>
 </div>
 
