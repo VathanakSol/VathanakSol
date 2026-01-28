@@ -24,22 +24,24 @@
 
 ### About Me
 
-- 🔧 Full‑stack Developer & DevOps Engineer.
-- 🎓 Graduated from the Royal University of Phnom Penh.
-- 🧰 Main stack: React, Next.js, Node.js, FastAPI, Spring.
+- 🔧 Full‑Stack Developer & DevOps Engineer.
+- 🎓 Graduated from the Royal University of Phnom Penh (RUPP).
+- 🧰 Main Stack: React, Next.js, FastAPI, Spring.
 - 🗄️ Database: PostgreSQL.
-- 🛠️ DevOps: Docker, Kubernetes, Jenkins, Nginx, Linux, Git.
-- 🚀 Exploring new technologies and open to freelance work.
+- 🛠️ DevOps: Linux, Git, Docker, Jenkins, Ansible, Kubernetes.
+- 🚀 Exploring new technologies and open for freelance work.
 
 ### Now Building
 
-- ⚡ Developer Platform 2050 as for developer
+- ⚡ Developing Future-Dev Platform for open-source project available for IT Cambodian
 
 ### Currently Learning
 
 - 🧵 Improve Backend Concept Programming
-- 📈 Network Configuration in Cloud Computing
-- 🚦 New Technologies
+- 📈 Learn Artificial Intelligence and Machine Learning  
+- 🚦 Discover About Vector Database and Embedding
+
+- 📍 AWS SKill Builder, Google Skill Boost
 
 ### Reach Me
 
@@ -94,7 +96,7 @@
 ### Projects
 
 - 🔗 Dok-Play: https://dokplay.netlify.app
-- 🔗 2050: https://v2050.vercel.app
+- 🔗 Future-Dev: https://v2050.vercel.app
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VathanakSol&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
