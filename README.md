@@ -51,7 +51,7 @@
   <a href="https://naktech.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-naktech.netlify.app-111111?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0B0E14" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/vathanaksol">
+  <a href="https://www.linkedin.com/in/vathanak-sol">
     <img src="https://img.shields.io/badge/LinkedIn-Vathanak%20Sol-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0E14" alt="LinkedIn" />
   </a>
 
@@ -104,6 +104,7 @@
 ### Support
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://coff.ee/vathanak)
+
 
 
 
