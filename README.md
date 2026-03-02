@@ -39,9 +39,8 @@
 
 - 🧵 Improve Backend Concept Programming
 - 📈 Learn Artificial Intelligence and Machine Learning  
-- 🚦 Discover About Vector Database and Embedding
-
-- 📍 AWS SKill Builder, Google Skill Boost
+- 🚦 Explore about Windows Server
+- 📍 LinkedIn Learning, Boot.dev
 
 ### Reach Me
 
@@ -105,6 +104,7 @@
 ### Support
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://coff.ee/vathanak)
+
 
 
 
