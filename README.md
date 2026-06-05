@@ -77,15 +77,6 @@
 
 </div>
 
-### GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VathanakSol&show_icons=true&theme=react&hide_border=true" alt="stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=VathanakSol&theme=react&hide_border=true" alt="streak"/>
-  <br/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VathanakSol&layout=compact&theme=react&hide_border=true" alt="top langs"/>
-</div>
-
 ### Achievements
 
 <p align="center">
