@@ -31,16 +31,10 @@
 - 🛠️ DevOps: Linux, Git, Docker, Jenkins, Ansible, Kubernetes.
 - 🚀 Exploring new technologies and open for freelance work.
 
-### Now Building
-
-- ⚡ Developing Future-Dev Platform for open-source project available for IT Cambodian
-
 ### Currently Learning
 
-- 🧵 Improve Backend Concept Programming
-- 📈 Learn Artificial Intelligence and Machine Learning  
-- 🚦 Explore about Windows Server
-- 📍 LinkedIn Learning, Boot.dev
+- 🧵 Cloud Computing with AWS
+- 🚦 Explore Network and Backend
 
 ### Reach Me
 
